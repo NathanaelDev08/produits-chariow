@@ -1,0 +1,15 @@
+# Environnement
+.env
+.env.*
+!.env.example
+
+# Archives et binaires
+*.zip
+*.exe
+*.7z
+*.tar.gz
+
+# Systeme
+Thumbs.db
+.DS_Store
+.vscode/
